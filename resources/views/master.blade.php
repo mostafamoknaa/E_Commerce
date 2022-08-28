@@ -55,5 +55,8 @@
         margin-bottom: 20px;
         padding-bottom: 20px
     }
+    .footer{
+        margin-top: 100px;
+    }
 </style>
 </html>
